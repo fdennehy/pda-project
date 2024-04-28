@@ -26,7 +26,7 @@ Instructions on how to run the notebook locally are documented under the Get Sta
 
 ## Use of this Project
 
-Why this project is useful...
+This project may be useful to prospective students of the HDip in Science in Computing in Data Analytics course at ATU Galway, giving an indication of the content of the Principles of Data Analytics moduule and showcasing what can be achieved within a few weeks on the course. It may also be useful to other Python learners beginning their Data Analytics journey.
 
 ## Get Started 
 
@@ -34,14 +34,20 @@ To run the notebook locally, follow these instructions:
 
 ## Get Help
 
-Where users can get help with your project...
+Read the comments provided within the Python files and look up official Python documentation for further usage guidance.
 
 ## Contribute
 
-Who maintains and contributes to the project...
+Developers are welcome to fork this repo and continue to develop and expand upon it as they wish.
 
 ## Author
 
-About me...
+**Finbar Dennehy**
 
-I'm currently studying at [ATU](https://www.atu.ie/). 
+I'm currently undertaking the [HDip in Science in Computing in Data Analytics](https://www.gmit.ie/higher-diploma-in-science-in-computing-in-data-analytics) on a part time basis at [ATU](https://www.atu.ie/)
+
+I have over ten years' experience in capital markets consultancy and have spent the past few years working on software delivery and customer success. I am undertaking this program to better understand our clients, who are predominantly data scientists and data engineers.
+
+## Acknowledgements
+
+Special thanks to my lecturer on the Principles of Data Analytics module, Ian McLoughlin, from whom I acquired the skills necessary to put this project together.
