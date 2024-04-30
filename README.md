@@ -21,6 +21,7 @@ _Description_: Jupyter Notebook containing the following sections:
 - _Variables_: Table providing summary of the variables in the dataset and the types of variables that should be used to model these variables, with rationale.
 - _Inspect Data_: Deeper dive into the data, with the aim of providing some insights.
 - _Visualizations_: Using appropriate plots (bar charts, histograms and scatterplots) to visualize different data.
+- _Summary_: Summary of findings
 
 2. **README.md**\
 _Description_: This README has been written with [GitHub's documentation on READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes) in mind.
