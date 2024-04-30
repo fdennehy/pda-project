@@ -6,6 +6,7 @@ This repository contains one Jupyter Notebook (penguins.ipynb), which explores t
 
 ## Palmer Pengions
 
+Artwork by @allison_horst.
 ![Penguins](https://allisonhorst.github.io/palmerpenguins/reference/figures/lter_penguins.png)
 
 As stated on the [Official Site](https://allisonhorst.github.io/palmerpenguins/), "_The goal of palmerpenguins is to provide a great dataset for data exploration & visualization, as an alternative to iris._" The dataset contains data for three penguin species observed in the Palmer Archipelago, Antartica, collected and made available by [Dr. Kirsten Gorman](https://www.uaf.edu/cfos/people/faculty/detail/kristen-gorman.php) and the [Palmer Station, Antartica LTER](https://pallter.marine.rutgers.edu/). For this project, we will be using the simplified version of the raw data.
