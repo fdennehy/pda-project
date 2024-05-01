@@ -36,6 +36,10 @@ _Description_: I have used the below github templates to create my .gitignore fi
     https://github.com/github/gitignore/blob/main/TeX.gitignore \
     https://github.com/github/gitignore/blob/main/Global/Vim.gitignore
 
+4. **PalmerArchipelago.png**\
+_Description_: An image of the Palmer Archipelago depicting the species measured on each island.\
+
+
 ## Use of this Project
 
 This project may be useful to prospective students of the HDip in Science in Computing in Data Analytics course at ATU Galway, giving an indication of the content of the Principles of Data Analytics moduule and showcasing what can be achieved within a few weeks on the course. It may also be useful to other Python learners beginning their Data Analytics journey.
