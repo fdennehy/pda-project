@@ -2,7 +2,7 @@
 
 ## About This Project
 
-This repository contains one Jupyter Notebook (penguins.ipynb), which explores the Palmer Penguins dataset using analytical methods learned as part of the Principles of Data Analytics module of the [HDip in Science in Computing in Data Analytics](https://www.gmit.ie/higher-diploma-in-science-in-computing-in-data-analytics), ATU Galway. In addition to the Jupyter Notebook, the repository contains this README.md file and a .gitignore file. A brief description of each file is provided under the 'Files Description' section.
+This repository contains one Jupyter Notebook (penguins.ipynb), which explores the Palmer Penguins dataset using analytical methods learned as part of the Principles of Data Analytics module of the [HDip in Science in Computing in Data Analytics](https://www.gmit.ie/higher-diploma-in-science-in-computing-in-data-analytics), ATU Galway. In addition to the Jupyter Notebook, the repository contains this README.md file, a .gitignore file and a palmerarchipelago.png. A brief description of each file is provided under the 'Files Description' section.
 
 ## Palmer Pengions
 
